@@ -1,0 +1,53 @@
+﻿
+Blood Bank
+And
+Donar Management System
+
+
+The BLOOD BANK AND DONOR MANAGEMENT SYSTEM is great project. this project is designed for successful completion of a project on blood bank management system. The basic building aim is to provide blood donation service to the city recently.
+Blood Bank And Donor Management System (BBADMS) is a Web-based application that is designed to store, process, retrieve and analyze information concerned with the administrative and inventory management within a blood bank.
+This project aims at maintaining all the information pertaining to blood donors, different blood groups available in each blood bank and help them manage in a better way.
+
+
+
+
+
+
+
+
+ System Requirement
+
+
+
+
+1. JDK (10.0.2)
+2. Oracle Database (19c)
+3. Apache Tomcat (9.0)
+4. ojdbc 6
+5. SQL developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
