@@ -1,4 +1,5 @@
 ﻿
+ 
 Blood Bank
 And
 Donar Management System
@@ -26,7 +27,7 @@ This project aims at maintaining all the information pertaining to blood donors,
 4. ojdbc 6
 5. SQL developer
 
-
+THIS WAS FUN :)
 
 
 
